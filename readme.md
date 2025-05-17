@@ -3,7 +3,8 @@
 A full-stack application to extract and preview relevant video clips from any video URL using natural language queries.
 
 ---
-
+## Video that shows how it works
+https://drive.google.com/file/d/1n43GDZphoMzLKPFJ35lmIe49oWeEYq6X/view?usp=sharing
 ## Usage
 
 1. **Paste a video URL** (e.g, "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4").
